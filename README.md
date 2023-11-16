@@ -1,2 +1,2 @@
 # Appliance_Energy_Prediction
-This project explores residential appliance energy consumption, considering inherent appliance traits and environmental dynamics in various living spaces. Using a dataset with temperature, humidity, and environmental data for distinct areas, we aim to predict nuanced energy usage patterns for optimized efficiency.
+This project focuses on predicting appliance energy consumption in a residential setting, leveraging a dataset that includes temperature and humidity readings for key areas such as the kitchen, living room, laundry, office room, bathroom, ironing room, teenage room, and parent room, alongside data on environmental conditions.
